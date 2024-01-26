@@ -1,1 +1,0 @@
-This was made to practice the basics of React and components
