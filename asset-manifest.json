@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/to-do-pink/static/css/main.b8f097b8.css",
+    "main.js": "/to-do-pink/static/js/main.08a949fe.js",
+    "index.html": "/to-do-pink/index.html",
+    "main.b8f097b8.css.map": "/to-do-pink/static/css/main.b8f097b8.css.map",
+    "main.08a949fe.js.map": "/to-do-pink/static/js/main.08a949fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8f097b8.css",
+    "static/js/main.08a949fe.js"
+  ]
+}
